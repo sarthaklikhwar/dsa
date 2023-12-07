@@ -1,0 +1,1 @@
+{"name":"Local: expdi(greedy)","url":"c:\\Users\\ASUS\\OneDrive - IIT Delhi\\Desktop\\dsa\\expdi(greedy).cpp","tests":[{"id":1653670525276,"input":"1\n4\n4 4\n5 2\n11 5\n15 10\n25 10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\OneDrive - IIT Delhi\\Desktop\\dsa\\expdi(greedy).cpp","group":"local","local":true}
